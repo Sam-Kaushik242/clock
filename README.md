@@ -19,4 +19,4 @@ To use this clock project, follow these simple steps:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://Sam-Kaushik242.github.io/clock.git
+   git clone https://Sam-Kaushik242/clock.git
